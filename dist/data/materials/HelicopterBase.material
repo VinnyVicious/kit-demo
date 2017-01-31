@@ -1,0 +1,28 @@
+# Albedo color properties
+albedomap "ch_ahe_z-10w_d.tga"
+albedo 1 1 1
+
+# Occlusion properties
+
+# Normal map properties
+normalmap "ch_ahe_z-10_n.tga"
+
+# Emissive properties
+emissivestrength 0
+emissivecolor 1 1 1
+
+# Roughness properties
+#roughnessmap "ch_ahe_z-10w_r.tga"
+roughness 0.6
+
+# Metalness properties
+#metalness "ch_ahe_z-10w_m.tga"
+metalness 0.0
+
+# Other properties
+doublesided false
+depthwrite true
+depthread true
+castshadows true
+opacity 1
+blendmode none

@@ -1,0 +1,2 @@
+submesh "submesh-0" "MainRotorBlurred.MainRotorBlurred.geometry" "MainRotorBlurred.material"
+submesh "submesh-1" "MainRotorBlurred.HelicopterBase.geometry" "HelicopterBase.material"

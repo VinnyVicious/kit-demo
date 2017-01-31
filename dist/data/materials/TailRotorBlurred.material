@@ -1,0 +1,26 @@
+# Albedo color properties
+albedomap "tailrotorblurred.png"
+albedo 1 1 1
+
+# Occlusion properties
+
+# Normal map properties
+
+# Emissive properties
+emissivestrength 0
+emissivecolor 1 1 1
+
+# Roughness properties
+roughness 0
+
+# Metalness properties
+metalness 0
+
+# Other properties
+doublesided true
+depthwrite false
+depthread true
+castshadows false
+opacity 0.75
+opacitymask "tailrotorblurred.png"
+blendmode alpha

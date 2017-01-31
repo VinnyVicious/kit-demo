@@ -1,0 +1,4 @@
+albedomap "DestroyerSidePainted.png" 
+normalmap "DestroyerSideNormal.png"
+ 
+roughness 0.25

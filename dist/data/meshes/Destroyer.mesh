@@ -1,0 +1,4 @@
+submesh "submesh-0" "Destroyer.DestroyerCannon.geometry" "DestroyerCannon.material"
+submesh "submesh-1" "Destroyer.DestroyerSidePainted.geometry" "DestroyerSidePainted.material"
+submesh "submesh-2" "Destroyer.DestroyerSide.geometry" "DestroyerSide.material"
+submesh "submesh-3" "Destroyer.DestroyerDeck.geometry" "DestroyerDeck.material"

@@ -1,0 +1,5 @@
+albedomap "DestroyerSide.png" 
+normalmap "DestroyerSideNormal.png"
+ 
+roughness 0.25
+metalness 1.0
